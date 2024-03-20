@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(33, 33, 46);
+}
+.box {
+    background-color: rgb(75, 77, 95);
+    color: white;
+    width: 400px;
+    height: 200px;
+    border-radius: 10%;
+    display: flex;
+    padding-top: 100px;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+
+}
+html {
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
+.btn {
+    width: 30px;
+    height: 20px;
+}
+button {
+        background-color: rgb(75, 77, 95);
+        border: none;
+}
